@@ -1,0 +1,29 @@
+﻿## Build output
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+.vs/
+_ReSharper.*/
+*.ncb
+*.aps
+
+## NuGet
+packages/
+*.nupkg
+
+## Logs
+*.log
+*.tmp
+TestResults/
+
+## OS
+Thumbs.db
+.DS_Store
+desktop.ini
+## VB6
+*.vbw
+*.exp
+*.lib
+*.tlb
